@@ -1,0 +1,13 @@
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/bin/Debug/netcoreapp3.1/babyNameDecider.deps.json
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/bin/Debug/netcoreapp3.1/babyNameDecider.runtimeconfig.json
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/bin/Debug/netcoreapp3.1/babyNameDecider.runtimeconfig.dev.json
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/bin/Debug/netcoreapp3.1/babyNameDecider.dll
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/bin/Debug/netcoreapp3.1/babyNameDecider.pdb
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.csproj.AssemblyReference.cache
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.GeneratedMSBuildEditorConfig.editorconfig
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.AssemblyInfoInputs.cache
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.AssemblyInfo.cs
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.csproj.CoreCompileInputs.cache
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.dll
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.pdb
+/Users/letue/Kieran/Virtual Studio Projects/babyNameDecider/babyNameDecider/obj/Debug/netcoreapp3.1/babyNameDecider.genruntimeconfig.cache
